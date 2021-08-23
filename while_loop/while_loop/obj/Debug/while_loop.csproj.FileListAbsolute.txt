@@ -1,0 +1,6 @@
+C:\Users\Saptarshi\Desktop\C-Loops\while_loop\while_loop\bin\Debug\while_loop.exe.config
+C:\Users\Saptarshi\Desktop\C-Loops\while_loop\while_loop\bin\Debug\while_loop.exe
+C:\Users\Saptarshi\Desktop\C-Loops\while_loop\while_loop\bin\Debug\while_loop.pdb
+C:\Users\Saptarshi\Desktop\C-Loops\while_loop\while_loop\obj\Debug\while_loop.csproj.CoreCompileInputs.cache
+C:\Users\Saptarshi\Desktop\C-Loops\while_loop\while_loop\obj\Debug\while_loop.exe
+C:\Users\Saptarshi\Desktop\C-Loops\while_loop\while_loop\obj\Debug\while_loop.pdb
