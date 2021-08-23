@@ -1,0 +1,6 @@
+C:\Users\Saptarshi\Desktop\C-Loops\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\Saptarshi\Desktop\C-Loops\Factorial\bin\Debug\Factorial.exe
+C:\Users\Saptarshi\Desktop\C-Loops\Factorial\bin\Debug\Factorial.pdb
+C:\Users\Saptarshi\Desktop\C-Loops\Factorial\obj\Debug\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Saptarshi\Desktop\C-Loops\Factorial\obj\Debug\Factorial.exe
+C:\Users\Saptarshi\Desktop\C-Loops\Factorial\obj\Debug\Factorial.pdb
